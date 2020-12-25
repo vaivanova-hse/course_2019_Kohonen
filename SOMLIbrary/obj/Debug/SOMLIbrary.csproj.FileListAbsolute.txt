@@ -1,0 +1,6 @@
+C:\Users\Vetta\source\repos\Kohonen SOM\SOMLIbrary\bin\Debug\SOMLIbrary.dll
+C:\Users\Vetta\source\repos\Kohonen SOM\SOMLIbrary\bin\Debug\SOMLIbrary.pdb
+C:\Users\Vetta\source\repos\Kohonen SOM\SOMLIbrary\obj\Debug\SOMLIbrary.csproj.CoreCompileInputs.cache
+C:\Users\Vetta\source\repos\Kohonen SOM\SOMLIbrary\obj\Debug\SOMLIbrary.dll
+C:\Users\Vetta\source\repos\Kohonen SOM\SOMLIbrary\obj\Debug\SOMLIbrary.pdb
+C:\Users\Vetta\source\repos\Kohonen SOM\SOMLIbrary\obj\Debug\SOMLIbrary.csprojAssemblyReference.cache
